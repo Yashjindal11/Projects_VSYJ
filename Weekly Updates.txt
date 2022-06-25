@@ -1,2 +1,2 @@
-18 June		Git and Github 				Completed
+18 June		Git and Github 					Completed
 25 June 	Machine Learning Revision
